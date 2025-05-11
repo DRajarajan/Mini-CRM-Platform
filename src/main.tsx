@@ -6,7 +6,7 @@ import App from './App';
 import './index.css';
 
 // Mock Google OAuth Client ID - in a real app, this would come from environment variables
-const GOOGLE_CLIENT_ID = '145492279630-s9h6f1ml59drpmpe1q7ho9brngg1kl1j.apps.googleusercontent.com';
+const GOOGLE_CLIENT_ID = '145492279630-ueb1guiq19qbfrouf0sdacacr0af443t.apps.googleusercontent.com';
 
 createRoot(document.getElementById('root')!).render(
   <StrictMode>
